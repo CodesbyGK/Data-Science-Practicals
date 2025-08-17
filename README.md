@@ -20,3 +20,4 @@ This repository contains my Data Science practicals including:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Change the path for Dataset
